@@ -6,8 +6,8 @@
   //Datenbanke
   $db_server = "localhost";
   $db_database = "Master";
-  $db_user = "event";
-  $db_pass = "event";
+  $db_user = "whatz-up";
+  $db_pass = "whatz-up";
   
   //Tabellen
  
